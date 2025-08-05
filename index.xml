@@ -6,7 +6,6 @@
     <description>Recent content on Eetu Suikkanen</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-<<<<<<< HEAD
     <lastBuildDate>Tue, 05 Aug 2025 13:50:18 +0300</lastBuildDate>
     <atom:link href="https://eetusuikkanen.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -17,12 +16,7 @@
       <description>&lt;h2 id=&#34;it-finally-feels-great&#34;&gt;It finally feels great!&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve tried to get a sort of orchestral template set up in my DAW for well over a year now, but I&amp;rsquo;ve always had a lot of trouble getting the all instruments play on time, since all the different articulations have different amount of attack to the samples. I had kept trying to work with 1 track per instrument using expression maps, but this meant I could only set 1 track pre-delay value and that could not work with legato articulation requiring a lot more pre delay than say short notes.&lt;/p&gt;</description>
     </item>
     <item>
-=======
-    <lastBuildDate>Sun, 27 Jul 2025 16:20:28 +0300</lastBuildDate>
-    <atom:link href="https://eetusuikkanen.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
->>>>>>> 867c5e4f17c625daec2d3836a307183d526ad84d
-      <title>On hold</title>
+      <title>On hold for now</title>
       <link>https://eetusuikkanen.github.io/blog/posts/on-hold-for-now/</link>
       <pubDate>Sun, 27 Jul 2025 16:20:28 +0300</pubDate>
       <guid>https://eetusuikkanen.github.io/blog/posts/on-hold-for-now/</guid>
