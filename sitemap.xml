@@ -8,12 +8,18 @@
     <loc>https://eetusuikkanen.github.io/blog/posts/</loc>
     <lastmod>2025-10-06T11:00:09+03:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>https://eetusuikkanen.github.io/blog/posts/on-my-new-template/</loc>
     <lastmod>2025-08-05T13:50:18+03:00</lastmod>
   </url><url>
     <loc>https://eetusuikkanen.github.io/blog/series/linux-adventures/</loc>
     <lastmod>2025-07-27T16:20:28+03:00</lastmod>
   </url><url>
+=======
+    <loc>https://eetusuikkanen.github.io/blog/series/linux-adventures/</loc>
+    <lastmod>2025-07-27T16:20:28+03:00</lastmod>
+  </url><url>
+>>>>>>> 867c5e4f17c625daec2d3836a307183d526ad84d
     <loc>https://eetusuikkanen.github.io/blog/posts/on-hold-for-now/</loc>
     <lastmod>2025-07-27T16:20:28+03:00</lastmod>
   </url><url>
