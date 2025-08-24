@@ -6,8 +6,15 @@
     <description>Recent content in Series on Eetu Suikkanen</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Jul 2025 16:20:28 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 15:02:26 +0300</lastBuildDate>
     <atom:link href="https://eetusuikkanen.github.io/blog/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jam Journals</title>
+      <link>https://eetusuikkanen.github.io/blog/series/jam-journals/</link>
+      <pubDate>Sun, 24 Aug 2025 15:02:26 +0300</pubDate>
+      <guid>https://eetusuikkanen.github.io/blog/series/jam-journals/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Linux Adventures</title>
       <link>https://eetusuikkanen.github.io/blog/series/linux-adventures/</link>
@@ -20,13 +27,6 @@
       <link>https://eetusuikkanen.github.io/blog/series/godot-experiments/</link>
       <pubDate>Tue, 24 Jun 2025 22:38:55 +0300</pubDate>
       <guid>https://eetusuikkanen.github.io/blog/series/godot-experiments/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jam Journals</title>
-      <link>https://eetusuikkanen.github.io/blog/series/jam-journals/</link>
-      <pubDate>Tue, 17 Jun 2025 11:18:28 +0300</pubDate>
-      <guid>https://eetusuikkanen.github.io/blog/series/jam-journals/</guid>
       <description></description>
     </item>
     <item>
